@@ -1,0 +1,286 @@
+nav {
+    background-color: #332e2e !important;
+    height: 90.33px;
+}
+
+.h62 {
+    Font-family: Poppins;
+    Font-style: Bold;
+    Font-size: 27.42px;
+    Line-height: 41px;
+    Line-height: 100%;
+    Vertical-align: Top;
+    padding: 32px;
+}
+.red{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 13px;
+line-height: 8px;
+
+color: #FFFFFF;
+}
+button {
+    background: #c21b1b !important;
+}
+
+.salom {
+    /* opacity: 0.6; */
+    padding-bottom: 10%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(0e9a43bdffb6a5d9d18143aac6c787b7.jpg);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+
+.myh3 {
+    text-align: center;
+
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 47.4545px;
+    line-height: 57px;
+
+    color: #ffffff;
+}
+
+.Mtbtn {
+    width: 120px;
+    height: 50px;
+    transform: skew(-20deg);
+    background: red;
+    border-radius: 1px !important;
+    color: white !important;
+    font-weight: 700 !important;
+
+}
+
+.dre {
+    color: #fff;
+}
+
+.mydiv {
+    width: 92%;
+    background-image: url(https://blogzine.webestica.com/assets/images/blog/1by1/01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    color: white;
+}
+.mytr{
+    border: 3px solid white;
+}
+.myp2{
+    font-size: 12px;
+}
+.mytr2{
+    border: 3px solid white;
+}
+
+
+.form2 {
+    color: white;
+    padding-left: 10%;
+    font-size: 52px;
+    font-weight: 600;
+}
+
+.form3 {
+    color: white;
+    padding-left: 10%;
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.form4 {
+    color: white;
+    padding-left: 10%;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.myimg {
+    width: 100%;
+    height: 167px;
+}
+
+
+
+
+.text {
+    text-align: center;
+}
+
+
+.tre3 {
+    color: #ffff;
+}
+
+element.style {
+    background-image: url(assets/images/blog/4by3/01.jpg);
+    background-position: center left;
+    background-size: cover;
+}
+
+.ft {
+    text-decoration: none !important;
+    text-align: center !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card {
+    border: none !important;
+}
+
+.gg {
+    border-radius: 50%;
+}
+
+.btnj {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.cards-wrapper {
+    display: flex;
+}
+.yyt{
+    position: relative;
+    top: -250px;
+}
+.card {
+    margin: 0 .1rem;
+}
+
+.footer {
+    background-color: #191a1f;
+    padding-bottom: 1%;
+}
+
+.container-text {
+    color: white;
+}
+
+.mycol {
+    text-align: right;
+}
+
+.form-control2 {
+    margin-left: auto !important;
+    display: block;
+    width: 70%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.mytextp {
+    text-align: left;
+}
+
+.my-div-col3 {
+    text-align: right;
+}
+
+.my-div-col2 {
+    text-align: left;
+}
+
+.my-div-col3 {
+    text-align: right;
+}
+
+.myli {
+    font-weight: 400;
+    color: #b9bdc2;
+}
+
+.myli:hover {
+    color: blue !important;
+}
+
+.my-div {
+    text-align: left;
+    margin-left: -15px;
+    color: white !important;
+}
+
+nav {
+    background-color: white;
+}
+
+.text-secondary2 {
+    color: #b9bdc2;
+}
+
+body {
+    background-color: #242222f0 !important;
+    color: white !important;
+}
+
+.footer2 {
+    background-color: #000000;
+    width: 70%;
+}
+
+.container2 {
+    width: 99%;
+}
+
+.fre {
+    background-color: #5c5656;
+}
+.myp6{
+    font-size: 16.31px;
+}
+.bg {
+    background-color: #121216;
+}
+
+.class {
+    background-color: #121216 !important;
+    border: none !important;
+    margin-top: -5px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 398px;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 1;
+}
